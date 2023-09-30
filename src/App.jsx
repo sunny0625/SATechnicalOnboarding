@@ -27,12 +27,12 @@ const siteProps = {
   name: "Sukhbir Singh",
   title: "Machine Learning & Web Designer",
   email: "sukhbirsingh2408@gmail.com",
-  gitHub: "https://github.com/sunny0625",
-  instagram: "https://www.instagram.com/sukhbir__virdi/",
-  linkedIn: "https://www.linkedin.com/in/sukhbir-singh-virdi/",
-  medium: "https://medium.com/@sukhbirsingh2408",
-  twitter: "https://twitter.com/Sukhbir37206444",
-  youTube: "https://www.youtube.com/channel/UCwPOdg7_cegdJY7N_-dajNA",
+  gitHub: "sunny0625",
+  instagram: "sukhbir__virdi/",
+  linkedIn: "sukhbir-singh-virdi/",
+  medium: "@sukhbirsingh2408",
+  twitter: "Sukhbir37206444",
+  youTube: "UCwPOdg7_cegdJY7N_-dajNA",
 };
 
 const primaryColor = "#4E567E";
